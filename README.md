@@ -1,3 +1,50 @@
 # Some Machine Learning foundation techiques and theories
-# Course website
-    https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/
+
+- Course website
+  - https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/
+- Abstract of HWs
+  - hw1
+    - The Learning Problem
+    - Perceptron Learning Algorithm (PLA)
+    - Off-Training-Set Error
+    - Hoeffding Inequality
+    - Bad Data
+    - Multiple-Bin Sampling
+    - Experiments with Perceptron Learning Algorithm
+  - hw2
+    - Perceptrons
+    - Ring Hypothesis Set
+    - Deviation from Optimal Hypothesis
+    - The VC Dimension
+    - Noise and Error
+    - Decision Stump
+  - hw3
+    - Linear Regression
+    - Likelihood and Maximum Likelihood
+    - Gradient and Stochastic Gradient Descent
+    - Hessian and Newton Method
+    - Multinomial Logistic Regression
+    - Nonlinear Transformation
+    - Experiments with Linear and Nonlinear Models
+  - hw4
+    - Deterministic Noise
+    - Learning Curve
+    - Noisy Virtual Examples
+    - Regularization
+    - Leave-one-out
+    - Learning Principles
+    - Experiments with Regularized Logistic Regression
+  - hw5
+    - Hard-Margin SVM and Large Margin
+    - Dual Problem of Quadratic Programming
+    - Properties of Kernels
+    - Kernel Perceptron Learning Algorithm
+    - Soft-Margin SVM
+    - Experiments with Soft-Margin SVM 
+  - hw6
+    - Neural Networks
+    - Matrix Factorization
+    - Aggregation
+    - Adaptive Boosting
+    - Decision Tree
+    - Experiments with Decision Tree and Random Forest
