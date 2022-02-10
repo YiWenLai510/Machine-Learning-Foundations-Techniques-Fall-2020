@@ -1,4 +1,4 @@
-# Some Machine Learning foundation techiques and theories
+# Machine Learning Foundations/Techniques (NTU, Fall 2020)
 
 - Course website
   - https://www.csie.ntu.edu.tw/~htlin/course/ml20fall/
